@@ -37,7 +37,7 @@ The goal of this project is applying one of the following :**supervised learning
 
 ---
 
-### Submission (Due April 28)
+### Submission (Due April 30)
 
 - A repo which includes:
   1. A readme contains a brief about your selected dataset and the defined problem.
