@@ -41,4 +41,4 @@ The goal of this project is applying one of the following :**supervised learning
 
 - A repo **submitted using pull commands** which includes:
   1. A readme contains a brief about your selected dataset and the defined problem.
-  2. Notebook contains your EDA and model.
+  2. Notebook contains your EDA and the modeling part.
