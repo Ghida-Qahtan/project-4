@@ -20,9 +20,9 @@ The goal of this project is applying one of the following :**supervised learning
   6. [Samsung Internal SSD Reviews](https://www.kaggle.com/abdulrahmanalqannas/ssd-reviews).
   7. [Favorite young adult books Dataset](https://www.kaggle.com/rawanalmalki/goodreads-dataset).
   8. [Souq.com Laptops Dataset](https://www.kaggle.com/najwaalharbi/souqcom-laptops-dataset).
-  9. [Imgur Most Viral and Secret Santa] (https://www.kaggle.com/ghalib93/imgur-most-viral-and-secret-santa).
-  9. [houses prices in selected area in USA](https://www.kaggle.com/ialjadani/houses-prices-in-selected-area-in-usa).
-  10. [Used Cars Dataets](https://www.kaggle.com/doaaalsenani/used-cars-dataets?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=linkedin).
+  9. [Imgur Most Viral and Secret Santa](https://www.kaggle.com/ghalib93/imgur-most-viral-and-secret-santa).
+  10. [houses prices in selected area in USA](https://www.kaggle.com/ialjadani/houses-prices-in-selected-area-in-usa).
+  11. [Used Cars Dataets](https://www.kaggle.com/doaaalsenani/used-cars-dataets?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=linkedin).
 
 
 - Describe selected dataset thoroughly.
